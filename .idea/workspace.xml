@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c45b045d-5a52-4cc8-8a49-55537875e722" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lmmvDCbZkr2zkVimrnwwkTcpDn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Py-Project\JS_逆向" />
+      <recent name="D:\Py-Project\JS_逆向\js_初级" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.baidu_one">
+    <configuration name="qi.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week_two_js/qi.js" working-dir="$PROJECT_DIR$/week_two_js">
+      <method v="2" />
+    </configuration>
+    <configuration name="企业名片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JS_逆向" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_two_js" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_two_js/企业名片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="58_同城_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JS_逆向" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/58_同城" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/58_同城/58_同城_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JS_逆向" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/百度翻译" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/百度翻译/baidu_one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yaodao_js_代码 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JS_逆向" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/js_初级" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/js_初级/yaodao_js_代码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.baidu_one" />
+        <item itemvalue="Python.企业名片" />
+        <item itemvalue="Node.js.qi.js" />
+        <item itemvalue="Python.58_同城_spider" />
+        <item itemvalue="Python.yaodao_js_代码 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c45b045d-5a52-4cc8-8a49-55537875e722" name="Default Changelist" comment="" />
+      <created>1608210868213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608210868213</updated>
+      <workItem from="1608210869445" duration="8340000" />
+      <workItem from="1608257392564" duration="24273000" />
+      <workItem from="1608346567657" duration="4313000" />
+      <workItem from="1608518377788" duration="18640000" />
+      <workItem from="1608728258499" duration="3328000" />
+      <workItem from="1609039843251" duration="1700000" />
+      <workItem from="1609575314748" duration="2913000" />
+      <workItem from="1610871374071" duration="7954000" />
+      <workItem from="1611234639768" duration="619000" />
+      <workItem from="1611301526394" duration="13759000" />
+      <workItem from="1611332326950" duration="397000" />
+      <workItem from="1611393606397" duration="3036000" />
+      <workItem from="1611540690528" duration="25000" />
+      <workItem from="1611541872417" duration="1549000" />
+      <workItem from="1611819210832" duration="1288000" />
+      <workItem from="1611825437886" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="491" height="466" key="DebuggerActiveHint" timestamp="1611326255123">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="491" height="466" key="DebuggerActiveHint/0.31.1440.929@0.31.1440.929" timestamp="1611326255123" />
+    <state x="582" y="298" key="FileChooserDialogImpl" timestamp="1611825480680">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="582" y="298" key="FileChooserDialogImpl/0.31.1440.929@0.31.1440.929" timestamp="1611825480680" />
+    <state width="1210" height="207" key="GridCell.Tab.0.bottom" timestamp="1611820543074">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="207" key="GridCell.Tab.0.bottom/0.31.1440.929@0.31.1440.929" timestamp="1611820543074" />
+    <state width="1210" height="207" key="GridCell.Tab.0.center" timestamp="1611820543074">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="207" key="GridCell.Tab.0.center/0.31.1440.929@0.31.1440.929" timestamp="1611820543074" />
+    <state width="1210" height="207" key="GridCell.Tab.0.left" timestamp="1611820543074">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="207" key="GridCell.Tab.0.left/0.31.1440.929@0.31.1440.929" timestamp="1611820543074" />
+    <state width="1210" height="207" key="GridCell.Tab.0.right" timestamp="1611820543074">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="207" key="GridCell.Tab.0.right/0.31.1440.929@0.31.1440.929" timestamp="1611820543074" />
+    <state width="1397" height="310" key="GridCell.Tab.1.bottom" timestamp="1611414750903">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="310" key="GridCell.Tab.1.bottom/0.31.1440.929@0.31.1440.929" timestamp="1611414750903" />
+    <state width="1397" height="310" key="GridCell.Tab.1.center" timestamp="1611414750903">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="310" key="GridCell.Tab.1.center/0.31.1440.929@0.31.1440.929" timestamp="1611414750903" />
+    <state width="1397" height="310" key="GridCell.Tab.1.left" timestamp="1611414750902">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="310" key="GridCell.Tab.1.left/0.31.1440.929@0.31.1440.929" timestamp="1611414750902" />
+    <state width="1397" height="310" key="GridCell.Tab.1.right" timestamp="1611414750903">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="310" key="GridCell.Tab.1.right/0.31.1440.929@0.31.1440.929" timestamp="1611414750903" />
+    <state width="1397" height="221" key="GridCell.Tab.2.bottom" timestamp="1611327251758">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.2.bottom/0.31.1440.929@0.31.1440.929" timestamp="1611327251758" />
+    <state width="1397" height="221" key="GridCell.Tab.2.center" timestamp="1611327251757">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.2.center/0.31.1440.929@0.31.1440.929" timestamp="1611327251757" />
+    <state width="1397" height="221" key="GridCell.Tab.2.left" timestamp="1611327251757">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.2.left/0.31.1440.929@0.31.1440.929" timestamp="1611327251757" />
+    <state width="1397" height="221" key="GridCell.Tab.2.right" timestamp="1611327251758">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.2.right/0.31.1440.929@0.31.1440.929" timestamp="1611327251758" />
+    <state width="1397" height="221" key="GridCell.Tab.3.bottom" timestamp="1611327251758">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.3.bottom/0.31.1440.929@0.31.1440.929" timestamp="1611327251758" />
+    <state width="1397" height="221" key="GridCell.Tab.3.center" timestamp="1611327251758">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.3.center/0.31.1440.929@0.31.1440.929" timestamp="1611327251758" />
+    <state width="1397" height="221" key="GridCell.Tab.3.left" timestamp="1611327251758">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.3.left/0.31.1440.929@0.31.1440.929" timestamp="1611327251758" />
+    <state width="1397" height="221" key="GridCell.Tab.3.right" timestamp="1611327251758">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1397" height="221" key="GridCell.Tab.3.right/0.31.1440.929@0.31.1440.929" timestamp="1611327251758" />
+    <state x="182" y="115" width="996" height="714" key="SettingsEditor" timestamp="1611328005656">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="182" y="115" width="996" height="714" key="SettingsEditor/0.31.1440.929@0.31.1440.929" timestamp="1611328005656" />
+    <state width="727" height="472" key="XDebugger.FullValuePopup" timestamp="1611330183972">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="727" height="472" key="XDebugger.FullValuePopup/0.31.1440.929@0.31.1440.929" timestamp="1611330183972" />
+    <state x="500" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1608541852673">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="500" y="281" width="672" height="678" key="search.everywhere.popup/0.31.1440.929@0.31.1440.929" timestamp="1608541852673" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week_two_js/mazhang.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week_two_js/企业名片.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JS_$mazhang.coverage" NAME="mazhang Coverage Results" MODIFIED="1608731883265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_two_js" />
+    <SUITE FILE_PATH="coverage/JS_$58__spider.coverage" NAME="58_同城_spider Coverage Results" MODIFIED="1611325771846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/58_同城" />
+    <SUITE FILE_PATH="coverage/JS_$yaodao_js.coverage" NAME="yaodao_js Coverage Results" MODIFIED="1608214766000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js_初级" />
+    <SUITE FILE_PATH="coverage/JS_$yaodao_js_.coverage" NAME="yaodao_js_代码 Coverage Results" MODIFIED="1608219428949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js_初级" />
+    <SUITE FILE_PATH="coverage/JS_$yaodao.coverage" NAME="yaodao Coverage Results" MODIFIED="1608260123115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js_初级" />
+    <SUITE FILE_PATH="coverage/JS_$yaodao_js___1_.coverage" NAME="yaodao_js_代码 (1) Coverage Results" MODIFIED="1610878016412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js_初级" />
+    <SUITE FILE_PATH="coverage/JS_$_spider.coverage" NAME="三河市政服务网_spider Coverage Results" MODIFIED="1608543335133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_js" />
+    <SUITE FILE_PATH="coverage/JS_$baidu_one.coverage" NAME="baidu_one Coverage Results" MODIFIED="1611819224973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/百度翻译" />
+    <SUITE FILE_PATH="coverage/JS_$.coverage" NAME="企业名片 Coverage Results" MODIFIED="1611410560518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_two_js" />
+  </component>
+</project>
